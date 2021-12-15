@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+.styled{
+    display: flex;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px 26%;
+}
+
+.styled > audio {
+    margin: auto;
+    padding: 20px;
+}
