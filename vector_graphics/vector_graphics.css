@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+.styled{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px 26%;
+}
+
+.styled > svg {
+    margin: auto;
+}
